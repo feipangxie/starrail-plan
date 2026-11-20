@@ -1,0 +1,2 @@
+# starrail-plan
+nothing happen
